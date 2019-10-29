@@ -1,0 +1,16 @@
+PODS:
+  - TTSegmentedControl (0.4.9)
+
+DEPENDENCIES:
+  - TTSegmentedControl (~> 0.4.9)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TTSegmentedControl
+
+SPEC CHECKSUMS:
+  TTSegmentedControl: 6657bb0cf85f59a2f559bd22387cdf057f84fce8
+
+PODFILE CHECKSUM: 34e8b2876957e2788caa8844bedd2b2319039e48
+
+COCOAPODS: 1.5.2
